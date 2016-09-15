@@ -1,0 +1,109 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>PyCon-FR — Venez découvrir Python et le monde du logiciel libre du 13 au 16 Octobre 2016 à Rennes</title>
+  <link rel="stylesheet" href="./dist/talkie.min.css">
+  <link rel="stylesheet" href="./dist/talkie-default.min.css">
+  <link rel="stylesheet" href="./dist/monokai_sublime.min.css">
+  <link rel="stylesheet" href="./dist/mozilla.css">
+</head>
+<body>
+
+<template layout="bullets" type="text/x-markdown">
+![](./images/pyconfr.jpg)
+
+Rémy Hubscher &lt;natim@mozilla.com&gt;
+</template>
+
+
+<template layout="bullets" type="text/x-markdown">
+
+## Qu'est-ce que PyCon-FR
+
+- Une conférence **internationale**
+- Une conférence principalement **francophone**
+- Une conférence autour du **language Python**
+- Une conférence autour du **logiciel libre**
+- Organisée par l'Association Francophone Python
+
+</template>
+
+
+<template layout="bullets" type="text/x-markdown">
+
+## Où et Quand ?
+
+- À **Cesson-Sévigné**
+- À **Télécom Bretagne**
+- Du **13 au 16 octobre 2016**
+- 2 jours de **sprints** les 13/14 octobre
+- 2 jours de **conférences** les 15/16 octobre
+
+</template>
+
+<template layout="bullets" type="text/x-markdown">
+## Quel est l'intérêt pour vous ?
+
+- **Découvrir**, le logiciel libre, Python
+- **Rencontrer**, entreprises, développeurs, +10 nationnalités
+- **Apprendre**, code, tests, bonnes pratiques
+- **Comprendre**, fonctionnement des communautés
+- **Développer son réseau professionnel**
+</template>
+
+<template layout="bullets-invert" type="text/x-markdown"
+          backface="./images/goals.jpg"
+          backface-filter="brightness(1)">
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+Logiciel libre : une opportunité à ne pas manquer
+
+</template>
+
+<template layout="bullets" type="text/x-markdown">
+## Pourquoi participer ?
+
+- Promouvoir sa ville et son école en participant comme bénévole.
+- Enrichir son réseau professionnel, se faire connaître.
+- Découvrir le monde du logiciel libre.
+- C'est une conférence gratuite.
+
+</template>
+
+<template layout="cover" invert type="text/x-markdown">
+
+![](./images/pyconfr.jpg)
+
+Des questions ?
+
+</template>
+
+<template layout="bullets" type="text/x-markdown">
+## Crédits
+
+- [Angie Torres, "Goal setting"](https://www.flickr.com/photos/angietorres/4564135455)
+
+</template>
+
+<script src="./dist/highlight.min.js"></script>
+<script src="./dist/talkie.js"></script>
+<script>
+var talkie = Talkie({wide: false});
+
+talkie.next.plug(talkie.control.keydown('s'));
+talkie.next.plug(talkie.control.keydown('n'));
+talkie.prev.plug(talkie.control.keydown('a'));
+talkie.prev.plug(talkie.control.keydown('p'));
+
+document.addEventListener('DOMContentLoaded', function() {
+  var slides = Array.prototype.slice.call(document.querySelectorAll('[layout]'));
+  talkie.changed.onValue(function(current) {
+    console.clear();
+    // print presenter notes
+    console.info(talkie.notes[current.getAttribute('page')]);
+  });
+});
+</script>
+</body>
+</html>
