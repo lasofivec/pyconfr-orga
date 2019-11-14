@@ -4,7 +4,7 @@ Afin de trouver le meilleur lieu pour l'organisation de le PyConFR nous avons fa
 
 - Conférence sur 4 jours
 - Possibilité de le faire pendant les vacances scolaire et/ou le week-end
-- En 2019: ~350 participants sur place 600 inscrits
+- En 2019: ~350 participants sur place, 600 inscrits
 - Gratuit pour les étudiants
 - 2 jours sprints: 
   - une dixaine de sprints en parallel
@@ -17,7 +17,7 @@ Afin de trouver le meilleur lieu pour l'organisation de le PyConFR nous avons fa
 - [ ] 4 salles de conférences / amphitéatres de >100 places (avec vidéo projecteur)
 - [ ] une dizaine salles de cours/td de 30-40 places
 - [ ] 1 hall d'accueil (pour acceuillir participants et pour les stands sponsors)
-- [ ] Accès wifi (eduroam) dans toutes les salles
+- [ ] Accès wifi dans toutes les salles (ouvert sur tous les ports)
 - [ ] De préférence toutes les salles dans un même batiment (moins de frais de sécurité)
 
 **Idéalment**
