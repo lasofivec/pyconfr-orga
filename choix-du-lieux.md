@@ -23,7 +23,7 @@ Afin de trouver le meilleur lieu pour l'organisation de le PyConFR nous avons fa
 - [ ] 1 amphithéatre de > 300 places (avec vidéo projecteur)
 - [ ] 4 salles de conférences / amphitéatres de >100 places (avec vidéo projecteur)
 - [ ] Une dizaine salles de cours/td de 30-40 places
-- [ ] 1 hall d'accueil (pour acceuillir participants et pour les stands sponsors)
+- [ ] 1 hall d'accueil (pour acceuillir participant, pour les stands sponsors, pour les pauses cafés)
 - [ ] Accès wifi dans toutes les salles (ouvert sur tous les ports)
 - [ ] De préférence toutes les salles dans un même batiment (moins de frais de sécurité)
 
