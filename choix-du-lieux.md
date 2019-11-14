@@ -2,27 +2,34 @@ Afin de trouver le meilleur lieu pour l'organisation de le PyConFR nous avons fa
 
 # Contexte
 
-- Conférence sur 4 jours
+- Organisation par l'AfPy: 100% des bénévoles
+- Conférence sur 4 jours autour du langage de programmation Python
+- Première édition en 2007
 - Possibilité de le faire pendant les vacances scolaire et/ou le week-end
-- En 2019: ~350 participants sur place, 600 inscrits
-- **Gratuite** (étudiants bienvenus)
+- Nombre de participants:
+  - 2019: ~350 participants, 600 inscrits
+  - 2018:  450 participants
+- Participants principalement français / francophones mais conférence intérnationale
+- **Gratuite** (étudiants bienvenus, bourses disponibles)
 - 2 jours sprints: 
   - une dixaine de sprints en parallel
 - 2 jours de conférences:
   - 5 sessions en parallel
+- Diversité / inclusion: [code de conduite](https://www.pycon.fr/2019/fr/conduct.html)
+
 
 # Infrastructure
 
 - [ ] 1 amphithéatre de > 300 places (avec vidéo projecteur)
 - [ ] 4 salles de conférences / amphitéatres de >100 places (avec vidéo projecteur)
-- [ ] une dizaine salles de cours/td de 30-40 places
+- [ ] Une dizaine salles de cours/td de 30-40 places
 - [ ] 1 hall d'accueil (pour acceuillir participants et pour les stands sponsors)
 - [ ] Accès wifi dans toutes les salles (ouvert sur tous les ports)
 - [ ] De préférence toutes les salles dans un même batiment (moins de frais de sécurité)
 
 **Idéalment**
 
-- [ ] accès aux salles pour les personnes à mobilité réduite
+- [ ] Accès aux salles pour les personnes à mobilité réduite
 
 
 
